@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D2, D3, D4, D5, D6, D7, D8, D9",LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,10,WS2812B,
+J1,JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal,1,Conn_01x06_Pin,
+"J2, J3",JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal,2,Conn_01x03_Pin,
+R1,0805,1,220,
+"R2, R3, R4, R5, R6, R7",0805,6,10k,
+SW1,RotaryEncoder_Bourns_Vertical_PEC12R-3x17F-Sxxxx,1,RotaryEncoder_Switch,
